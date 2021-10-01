@@ -1,4 +1,4 @@
-var cards = document.querySelectorAll('.ItemCard__ItemContainer-xrh60s-9.eSddHQ')
+var cards = document.getElementByClass('ItemCard__ItemContainer-xrh60s-9')
 var name_link = []
 var totalClasses = cards.length
 var currentClass = 0 

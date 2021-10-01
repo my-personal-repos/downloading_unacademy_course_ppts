@@ -1,0 +1,68 @@
+[
+    [
+        1,
+        "Automata - Part I",
+        "https://player.uacdn.net/slides_pdf/LNPUZLI2DXNGRQ45FPUA/Automata__Part_I_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/LNPUZLI2DXNGRQ45FPUA/Automata__Part_I_no_anno.pdf"
+    ],
+    [
+        2,
+        "Automata - Part II",
+        "https://player.uacdn.net/slides_pdf/79V5265VBGS5ATWXI1F7/Automata__Part_II_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/79V5265VBGS5ATWXI1F7/Automata__Part_II_no_anno.pdf"
+    ],
+    [
+        3,
+        "Parsing - Part I",
+        "https://player.uacdn.net/slides_pdf/IHOUSPAU1LQS5TJ3LQR4/Parsing__Part_I_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/IHOUSPAU1LQS5TJ3LQR4/Parsing__Part_I_no_anno.pdf"
+    ],
+    [
+        4,
+        "Automata - Part III",
+        "https://player.uacdn.net/slides_pdf/59WW97U3BEOVG2A1MSLC/Automata__Part_III_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/59WW97U3BEOVG2A1MSLC/Automata__Part_III_no_anno.pdf"
+    ],
+    [
+        5,
+        "Parsing - Part II",
+        "https://player.uacdn.net/slides_pdf/H8285Z9I4R8HIWYBF028/Parsing__Part_II_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/H8285Z9I4R8HIWYBF028/Parsing__Part_II_no_anno.pdf"
+    ],
+    [
+        6,
+        "Doubt Clearing Session",
+        "https://player.uacdn.net/slides_pdf/ZHV9SEZLV5EUEVT61PLN/Doubt_Clearing_Session_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/ZHV9SEZLV5EUEVT61PLN/Doubt_Clearing_Session_no_anno.pdf"
+    ],
+    [
+        7,
+        "Parsing - Part III",
+        "https://player.uacdn.net/slides_pdf/XMA6Q5FZW61SFMLB3H0E/Parsing__Part_III_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/XMA6Q5FZW61SFMLB3H0E/Parsing__Part_III_no_anno.pdf"
+    ],
+    [
+        8,
+        "Doubt Clearing Session",
+        "https://player.uacdn.net/slides_pdf/L4FC6KIQDU34Y2UEUZBD/Doubt_Clearing_Session_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/L4FC6KIQDU34Y2UEUZBD/Doubt_Clearing_Session_no_anno.pdf"
+    ],
+    [
+        9,
+        "SDT",
+        "https://player.uacdn.net/slides_pdf/KSLUUUC6F3VSE25NM24R/SDT_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/KSLUUUC6F3VSE25NM24R/SDT_no_anno.pdf"
+    ],
+    [
+        10,
+        "Doubt Clearing Session",
+        "https://player.uacdn.net/slides_pdf/FPOZ31OS3ICBZ1HJWF6L/Doubt_Clearing_Session_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/FPOZ31OS3ICBZ1HJWF6L/Doubt_Clearing_Session_no_anno.pdf"
+    ],
+    [
+        11,
+        "Intermediate Code Genration",
+        "https://player.uacdn.net/slides_pdf/0LYPRVBLP44ZBQY1FQQG/Intermediate_Code_Genration_with_anno.pdf",
+        "https://player.uacdn.net/slides_pdf/0LYPRVBLP44ZBQY1FQQG/Intermediate_Code_Genration_no_anno.pdf"
+    ]
+]

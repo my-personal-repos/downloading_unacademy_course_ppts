@@ -8,7 +8,9 @@ var downloadInterval = setInterval(()=>{
     if(menuBtn){
         var name = cards[currentClass].querySelector('.ItemCard__ItemInfo-xrh60s-2.jtVOke > h3').innerText
         menuBtn.click()
+        // This is without annotation
         var menuItem1 = document.querySelectorAll('.PDFDownload__MenuItem-zz6uw8-0.laFzUN > div')[0]
+        // This is with annotation
         var menuItem2 = document.querySelectorAll('.PDFDownload__MenuItem-zz6uw8-0.laFzUN > div')[1]
         var href1 = menuItem1.dataset.href
         var href2 = menuItem2.dataset.href
@@ -20,5 +22,5 @@ var downloadInterval = setInterval(()=>{
         console.log(name_link)
         clearInterval(downloadInterval)
     }
-}, 50)
+}, 1*1000)
 

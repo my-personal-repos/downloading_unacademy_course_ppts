@@ -22,5 +22,6 @@ var downloadInterval = setInterval(()=>{
         console.log(name_link)
         clearInterval(downloadInterval)
     }
-}, 1*1000)
+    // the end
+}, 10*1000)
 
